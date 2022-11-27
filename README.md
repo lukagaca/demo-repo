@@ -1,3 +1,3 @@
 # DEMO
 
-Opis repozitorijuma!
+Opis repozitorijuma..
